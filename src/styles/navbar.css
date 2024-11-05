@@ -1,0 +1,8 @@
+.navbar {
+  background-image: url("https://www.shutterstock.com/image-photo/july-2024-month-calendar-pen-600nw-2473003955.jpg");
+  background-position: center;
+  height: 80px; 
+  display: flex; 
+  align-items: center;
+  padding: 0 20px; 
+}
